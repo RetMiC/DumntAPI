@@ -2,8 +2,9 @@
 
 ## Оглавление
 1. [Описание проекта](#Описание-проекта)
-    1. [POST](#USER)
+    1. [USER](#USER)
         1. [GET /user (Get List)](#GET-user-Get-List)
+        2. [POST /user/create (Create User)](#GET-user-Get-List)
 2. [Майнд-карта](#Майнд-карта)
 
 
@@ -90,8 +91,8 @@ ____
 
 
 ## Майнд-карта
-Данная МК представляет собой набор тестов для тестирования объекта **POST**. Подробная проверка расписана для **Get List** и **Create Post**
-![Alt-текст](https://i.imgur.com/k4wusSC.png "МК")
+Данная МК представляет собой набор тестов для тестирования объекта **USER**. Подробная проверка расписана для **Get List** и **Create User**
+![Alt-текст](https://i.imgur.com/y3HDpyc.png "МК")
 
 Также майнд-карту можно [скачать](https://github.com/RetMiC/DummyAPI/blob/main/POST%20(2).xmind)
 
