@@ -3,7 +3,7 @@
 ## Оглавление
 1. [Описание проекта](#Описание-проекта)
     1. [POST](#POST)
-        1. [GET /post (Get List)](#GET /user (Get List))
+        1. [GET /post (Get List)](#GET-/user-(Get-List))
 2. [Майнд-карта](#Майнд-карта)
 
 
