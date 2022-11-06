@@ -69,6 +69,7 @@ ____
 }
 ```
 **Response Body**:
+
 **User Full**
 ```javascript
 {
